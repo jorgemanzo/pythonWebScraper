@@ -10,7 +10,7 @@ Uhhhh.... Because its easier. A lot of the groundwork is already in place which 
 
 ##### How did I make it?
 I used a few things on top of just python3. I started with looking up a youtube [video](https://www.youtube.com/watch?v=XQgXKtPSzUI&t=1168s) on how to scrape information off of websites with python. Turns out this video actually implemented what I wanted using BeautifulSoup. But I wanted to build on top of that. So I then looked up a video on [python website queries](https://www.youtube.com/watch?v=EELySnTPeyw). This lead me to using selenium to automate opening up Firefox, going to Newegg.com and sending it a search for whatever I want. Thats the idea anyway.
-https://i.imgur.com/oGIXrwz.png
+
 ##### Does it work?
 Yes. .... kind of.  There are a few issues with it currently, but it can function enough to be operable.
 
